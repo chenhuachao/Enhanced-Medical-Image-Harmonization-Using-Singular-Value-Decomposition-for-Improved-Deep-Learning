@@ -65,10 +65,14 @@ This script is used to run different experiments and evaluate the harmonized dat
 
 Experiment 1: MNIST and USPS Classification Experiment
 
-Handwritten Numbers Classification
-Load Dataset Path
+Code in Handwritten Numbers Classification
+
+1.Load Dataset Path
+
     base_dir = '/home/gem/Harry/C_To_SVD_USPS_use_USPS_0817_net/train'
-Save model path
+    
+2.Save model path
+
     checkpoints = '/home/gem/Harry/USPS_use_USPS_0818_net_model/checkpoints'
 
 Experiment 1: MNIST and USPS Classification Experiment
