@@ -28,7 +28,7 @@ Medical image processing often suffers from discrepancies in image quality and b
 
 1. Clone the repository:
    git clone https://github.com/chenhuachao/Harmonizing-frequencies-across-medical-images-makes-learning-easier.git
-.git
+
    pip install -r requirements.txt
 
 ## Usage
