@@ -6,9 +6,8 @@ This repository contains the implementation of a novel supervised image harmoniz
 
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Code Description](#code-description)
+- [Datasets](#Datasets)
 - [License](#license)
 
 
@@ -23,13 +22,8 @@ Medical image processing often suffers from discrepancies in image quality and b
 - OpenCV
 - TensorFlow or PyTorch
 - Matplotlib
-- Specifically in requirements.txt
+- Install packages in requirements.txt
 
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/chenhuachao/Harmonizing-frequencies-across-medical-images-makes-learning-easier.git
-   pip install -r requirements.txt
 
 ## Usage
 
@@ -41,27 +35,9 @@ Run the script with:
 python main.py --dataset_name dataset_name --model_type model_type
 
 
-## Code Description
+## Datasets
 
-har_fix.py
 
-This script performs image harmonization using Singular Value Decomposition (SVD) on a batch of medical images.
-
-Functions:
-
-harmonize_image(image): Applies SVD to the input image and harmonizes it.
-
-main_har_onechannel.py
-
-Similar to har_fix.py but designed for single-channel images.
-
-Functions:
-
-harmonize_single_channel_image(image): Applies SVD to a single-channel image and harmonizes it.
-
-main.py
-
-This script is used to run different experiments and evaluate the harmonized datasets.
 
 
 
