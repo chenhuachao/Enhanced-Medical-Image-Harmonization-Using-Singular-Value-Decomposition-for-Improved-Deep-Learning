@@ -65,6 +65,7 @@ This script is used to run different experiments and evaluate the harmonized dat
 
 Experiment 1: MNIST and USPS Classification Experiment
 
+Handwritten Numbers Classification
 Load Dataset Path
     base_dir = '/home/gem/Harry/C_To_SVD_USPS_use_USPS_0817_net/train'
 Save model path
