@@ -43,6 +43,7 @@ python main.py --dataset_name dataset_name --model_type model_type
 
 ## Datasets
 
+You could download datasets from [here](https://drive.google.com/drive/folders/1KZ7_HFXS1RiLuDKBnas2zORrIPuwO6xb?usp=sharing).
 
 
 
