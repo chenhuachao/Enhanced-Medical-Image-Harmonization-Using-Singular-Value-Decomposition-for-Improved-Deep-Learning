@@ -1,6 +1,6 @@
 # Enhanced Medical Image Harmonization Using Singular Value Decomposition for Improved Deep Learning Performance
 
-This repository contains the implementation of a novel supervised image harmonization technique leveraging Singular Value Decomposition (SVD) to improve the performance and robustness of deep learning models in medical image processing. The approach is detailed in the paper "Enhanced Medical Image Harmonization Using Singular Value Decomposition for Improved Deep Learning Performance".
+This repository contains the implementation of a novel supervised image harmonization technique leveraging Singular Value Decomposition (SVD) to improve the performance and robustness of deep learning models in medical image processing. The approach is detailed in the paper "Enhanced Medical Image Harmonization Using Singular Value Decomposition for Improved Deep Learning".
 
 ## Table of Contents
 
