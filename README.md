@@ -33,7 +33,7 @@ Medical image processing often suffers from discrepancies in image quality and b
 
 ## Usage
 
-Main Script (main.py)
+SVD-Harmonization Main Script (main.py)
 This is the main entry point for running experiments and evaluations on the harmonized datasets.
 
 Run the script with:
