@@ -16,7 +16,7 @@ This repository contains the implementation of a novel supervised image harmoniz
 
 Medical image processing often suffers from discrepancies in image quality and brightness due to medical facilities and scanning equipment variations. These discrepancies can significantly hinder the training and generalization of deep learning models, especially when training and testing across different datasets. This project introduces an SVD-based image harmonization technique designed to address these issues. Our method ensures consistent image quality by preserving essential medical image features during normalization, thereby improving the robustness and accuracy of models trained on harmonized datasets across diverse healthcare environments.
 <p align="center">
-  <img width="900" src="https://github.com/JHome1/GOSS_Segmentor/blob/main/Figure1.png">
+  <img width="900" src="https://github.com/chenhuachao/Enhanced-Medical-Image-Harmonization-Using-Singular-Value-Decomposition-for-Improved-Deep-Learning/blob/main/fig3.pdf">
 </p>
 
 
