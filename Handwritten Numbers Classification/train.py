@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2022/4/26 下午8:16
-# @Author  : zhangyunfei
+# @Time    : 2023/4/26
+# @Author  : chenhuachao
 # @File    : train.py
 # @Software: PyCharm
 import torch
