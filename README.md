@@ -75,7 +75,12 @@ Code in Handwritten Numbers Classification
 
     checkpoints = '/home/gem/Harry/USPS_use_USPS_0818_net_model/checkpoints'
 
-Experiment 1: MNIST and USPS Classification Experiment
+Experiment 2: DRIVE and CHASEDB1 Segmentation experiments 
+
+Code in Breast Cancer Classification
+
+
+Code in Breast Cancer Classification
 
 
 ## License
