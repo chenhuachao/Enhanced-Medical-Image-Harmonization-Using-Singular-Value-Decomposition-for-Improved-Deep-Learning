@@ -22,6 +22,7 @@ Medical image processing often suffers from discrepancies in image quality and b
 - NumPy
 - OpenCV
 - TensorFlow or PyTorch
+- Matplotlib
 - Specifically in requirements.txt
 
 ## Installation
@@ -61,6 +62,8 @@ harmonize_single_channel_image(image): Applies SVD to a single-channel image and
 main.py
 
 This script is used to run different experiments and evaluate the harmonized datasets.
+
+Experiment 1: MNIST and USPS Classification Experiment
 
 
 ## License
