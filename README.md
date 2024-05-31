@@ -43,14 +43,23 @@ python main.py --dataset_name dataset_name --model_type model_type
 ## Code Description
 
 har_fix.py
+
 This script performs image harmonization using Singular Value Decomposition (SVD) on a batch of medical images.
+
 Functions:
+
 harmonize_image(image): Applies SVD to the input image and harmonizes it.
+
 main_har_onechannel.py
+
 Similar to har_fix.py but designed for single-channel images.
+
 Functions:
+
 harmonize_single_channel_image(image): Applies SVD to a single-channel image and harmonizes it.
+
 main.py
+
 This script is used to run different experiments and evaluate the harmonized datasets.
 
 
